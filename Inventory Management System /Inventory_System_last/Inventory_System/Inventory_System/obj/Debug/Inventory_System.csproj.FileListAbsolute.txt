@@ -1,0 +1,146 @@
+E:\Current Work\Inventory_System\Inventory_System\obj\Debug\Inventory_System.csproj.AssemblyReference.cache
+E:\Current Work\Inventory_System\Inventory_System\obj\Debug\Inventory_System.Login.resources
+E:\Current Work\Inventory_System\Inventory_System\obj\Debug\Inventory_System.Properties.Resources.resources
+E:\Current Work\Inventory_System\Inventory_System\obj\Debug\Inventory_System.csproj.GenerateResource.cache
+E:\Current Work\Inventory_System\Inventory_System\obj\Debug\Inventory_System.csproj.CoreCompileInputs.cache
+E:\Current Work\Inventory_System\Inventory_System\bin\Debug\Inventory_System.exe.config
+E:\Current Work\Inventory_System\Inventory_System\bin\Debug\Inventory_System.exe
+E:\Current Work\Inventory_System\Inventory_System\bin\Debug\Inventory_System.pdb
+E:\Current Work\Inventory_System\Inventory_System\obj\Debug\Inventory_System.exe
+E:\Current Work\Inventory_System\Inventory_System\obj\Debug\Inventory_System.pdb
+E:\Current Work\Inventory_System\Inventory_System\obj\Debug\Inventory_System.frmproduct.resources
+E:\Current Work\Inventory_System\Inventory_System\obj\Debug\Inventory_System.frmTransaction.resources
+E:\Current Work\Inventory_System\Inventory_System\obj\Debug\Inventory_System.frmNewUser.resources
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System\Inventory_System\bin\Debug\Inventory_System.exe.config
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System\Inventory_System\bin\Debug\Inventory_System.exe
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System\Inventory_System\bin\Debug\Inventory_System.pdb
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System\Inventory_System\obj\Debug\Inventory_System.Main.resources
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System\Inventory_System\obj\Debug\Inventory_System.frmproduct.resources
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System\Inventory_System\obj\Debug\Inventory_System.frmTransaction.resources
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System\Inventory_System\obj\Debug\Inventory_System.Login.resources
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System\Inventory_System\obj\Debug\Inventory_System.frmNewUser.resources
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System\Inventory_System\obj\Debug\Inventory_System.Properties.Resources.resources
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System\Inventory_System\obj\Debug\Inventory_System.csproj.GenerateResource.cache
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System\Inventory_System\obj\Debug\Inventory_System.csproj.CoreCompileInputs.cache
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System\Inventory_System\obj\Debug\Inventory_System.exe
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System\Inventory_System\obj\Debug\Inventory_System.pdb
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System\Inventory_System\obj\Debug\Inventory_System.csproj.AssemblyReference.cache
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System\Inventory_System\obj\Debug\Inventory_System.Checkout.resources
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System\Inventory_System\obj\Debug\Inventory_System.MainMenu.resources
+E:\Current Work\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Inventory_System.exe.config
+E:\Current Work\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Inventory_System.exe
+E:\Current Work\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Inventory_System.pdb
+E:\Current Work\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.Checkout.resources
+E:\Current Work\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.Main.resources
+E:\Current Work\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.MainMenu.resources
+E:\Current Work\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.frmproduct.resources
+E:\Current Work\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.frmTransaction.resources
+E:\Current Work\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.Login.resources
+E:\Current Work\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.frmNewUser.resources
+E:\Current Work\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.Properties.Resources.resources
+E:\Current Work\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.csproj.GenerateResource.cache
+E:\Current Work\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.csproj.CoreCompileInputs.cache
+E:\Current Work\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.exe
+E:\Current Work\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.pdb
+E:\Current Work\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.frmChangePassword.resources
+E:\Current Work\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.csproj.AssemblyReference.cache
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Inventory_System.exe.config
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Inventory_System.exe
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Inventory_System.pdb
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.Checkout.resources
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.frmChangePassword.resources
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.Main.resources
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.MainMenu.resources
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.frmproduct.resources
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.frmTransaction.resources
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.Login.resources
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.frmNewUser.resources
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.Properties.Resources.resources
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.csproj.GenerateResource.cache
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.csproj.CoreCompileInputs.cache
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.exe
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.pdb
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Infragistics4.Shared.v19.2.dll
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Infragistics4.Win.Misc.v19.2.dll
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Infragistics4.Win.UltraWinGrid.v19.2.dll
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Infragistics4.Win.v19.2.dll
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Infragistics4.Shared.v19.2.xml
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Infragistics4.Win.Misc.v19.2.xml
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Infragistics4.Win.UltraWinGrid.v19.2.xml
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Infragistics4.Win.v19.2.xml
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.exe.licenses
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.csproj.CopyComplete
+C:\Users\20200433\Desktop\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Inventory_System.exe.config
+C:\Users\20200433\Desktop\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Inventory_System.exe
+C:\Users\20200433\Desktop\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Inventory_System.pdb
+C:\Users\20200433\Desktop\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Infragistics4.Shared.v19.2.dll
+C:\Users\20200433\Desktop\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Infragistics4.Win.Misc.v19.2.dll
+C:\Users\20200433\Desktop\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Infragistics4.Win.UltraWinGrid.v19.2.dll
+C:\Users\20200433\Desktop\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Infragistics4.Win.v19.2.dll
+C:\Users\20200433\Desktop\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Infragistics4.Shared.v19.2.xml
+C:\Users\20200433\Desktop\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Infragistics4.Win.Misc.v19.2.xml
+C:\Users\20200433\Desktop\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Infragistics4.Win.UltraWinGrid.v19.2.xml
+C:\Users\20200433\Desktop\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Infragistics4.Win.v19.2.xml
+C:\Users\20200433\Desktop\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.Checkout.resources
+C:\Users\20200433\Desktop\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.frmChangePassword.resources
+C:\Users\20200433\Desktop\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.Main.resources
+C:\Users\20200433\Desktop\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.MainMenu.resources
+C:\Users\20200433\Desktop\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.frmproduct.resources
+C:\Users\20200433\Desktop\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.frmTransaction.resources
+C:\Users\20200433\Desktop\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.Login.resources
+C:\Users\20200433\Desktop\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.frmNewUser.resources
+C:\Users\20200433\Desktop\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.Properties.Resources.resources
+C:\Users\20200433\Desktop\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.csproj.GenerateResource.cache
+C:\Users\20200433\Desktop\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.exe.licenses
+C:\Users\20200433\Desktop\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.csproj.CoreCompileInputs.cache
+C:\Users\20200433\Desktop\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.exe
+C:\Users\20200433\Desktop\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.pdb
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last (2)\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Inventory_System.exe.config
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last (2)\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Inventory_System.exe
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last (2)\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Inventory_System.pdb
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last (2)\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Infragistics4.Shared.v19.2.dll
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last (2)\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Infragistics4.Win.Misc.v19.2.dll
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last (2)\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Infragistics4.Win.UltraWinGrid.v19.2.dll
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last (2)\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Infragistics4.Win.v19.2.dll
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last (2)\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Infragistics4.Shared.v19.2.xml
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last (2)\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Infragistics4.Win.Misc.v19.2.xml
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last (2)\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Infragistics4.Win.UltraWinGrid.v19.2.xml
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last (2)\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Infragistics4.Win.v19.2.xml
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last (2)\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.csproj.AssemblyReference.cache
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last (2)\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.Checkout.resources
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last (2)\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.frmChangePassword.resources
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last (2)\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.Main.resources
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last (2)\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.MainMenu.resources
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last (2)\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.frmproduct.resources
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last (2)\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.frmTransaction.resources
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last (2)\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.Login.resources
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last (2)\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.frmNewUser.resources
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last (2)\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.Properties.Resources.resources
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last (2)\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.csproj.GenerateResource.cache
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last (2)\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.exe.licenses
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last (2)\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.csproj.CoreCompileInputs.cache
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last (2)\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.csproj.CopyComplete
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last (2)\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.exe
+D:\03.Current Work\VS-DesktopApp\Tanzima_Inventory\Inventory_System_last (2)\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.pdb
+C:\Users\20200433\Desktop\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.csproj.AssemblyReference.cache
+F:\Works\zz IB\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Inventory_System.exe.config
+F:\Works\zz IB\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Inventory_System.exe
+F:\Works\zz IB\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\bin\Debug\Inventory_System.pdb
+F:\Works\zz IB\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.csproj.SuggestedBindingRedirects.cache
+F:\Works\zz IB\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.Checkout.resources
+F:\Works\zz IB\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.frmChangePassword.resources
+F:\Works\zz IB\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.Main.resources
+F:\Works\zz IB\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.MainMenu.resources
+F:\Works\zz IB\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.frmproduct.resources
+F:\Works\zz IB\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.frmTransaction.resources
+F:\Works\zz IB\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.Login.resources
+F:\Works\zz IB\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.frmNewUser.resources
+F:\Works\zz IB\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.Properties.Resources.resources
+F:\Works\zz IB\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.csproj.GenerateResource.cache
+F:\Works\zz IB\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.exe.licenses
+F:\Works\zz IB\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.csproj.CoreCompileInputs.cache
+F:\Works\zz IB\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.csproj.CopyComplete
+F:\Works\zz IB\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.exe
+F:\Works\zz IB\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.pdb
+F:\Works\zz IB\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.frmInvoice.resources
+F:\Works\zz IB\Inventory_System_last\Inventory_System_last\Inventory_System\Inventory_System\obj\Debug\Inventory_System.csproj.AssemblyReference.cache
